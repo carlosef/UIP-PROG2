@@ -1,7 +1,7 @@
 # UIP-PROG2
  PROGRAMACIÓN 2
 ======================================
-Programación de Computadoras III - UIP
+Programación de Computadoras II - UIP
 ======================================
 
 :Autor: <nombre>

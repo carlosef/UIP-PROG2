@@ -1,0 +1,27 @@
+package CAJERO;
+
+public class Clave {
+	private double clave ;
+
+	public double getIntroducir() {
+		return clave;
+	}
+
+	public Object setIntroducir(double introducir) {
+		this.clave = 0;
+		if (clave <= 0);
+		return null;
+	}
+
+	public Clave setClave(double clave) {
+		return null;
+		
+	}
+
+	public void setseleccion(double seleccion) {
+		
+		
+	}
+	
+
+}

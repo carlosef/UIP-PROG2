@@ -1,0 +1,9 @@
+1447003337285	Encapsulate field 'encender'
+1447003345647	Encapsulate field 'apagar'
+1447004445091	Encapsulate field 'leer'
+1447004451861	Encapsulate field 'clave'
+1447004459053	Encapsulate field 'seleccion'
+1447010612564	Encapsulate field 'introducir'
+1447013901899	Encapsulate field 'seleccion'
+1447015381229	Convert local variable 'opc1' to field
+1447016198962	Convert local variable 'encender' to field

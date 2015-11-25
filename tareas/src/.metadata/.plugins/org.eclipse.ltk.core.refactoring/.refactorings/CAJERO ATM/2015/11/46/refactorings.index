@@ -1,0 +1,17 @@
+1447171480507	Convert local variable 'd' to field
+1447172095573	Encapsulate field 'd'
+1447172993767	Convert local variable 'k1' to field
+1447174242711	Extract local variable 'k2'
+1447174247532	Inline local variable 'k2'
+1447174253304	Extract local variable 'k2'
+1447174261353	Inline local variable 'k2'
+1447174267157	Extract local variable 'k2'
+1447174326002	Convert local variable 'c11' to field
+1447174331899	Convert local variable 'k2' to field
+1447176252635	Convert local variable 'd' to field
+1447177973719	Convert local variable 'c' to field
+1447178549928	Encapsulate field 'apagar'
+1447203330347	Encapsulate field 'monto'
+1447204269267	Extract local variable 'object'
+1447204277269	Convert local variable 'object' to field
+1447208497698	Convert local variable 'c' to field

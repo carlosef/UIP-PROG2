@@ -1,0 +1,175 @@
+package CAJERO;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+
+public class Operacion {
+
+	
+
+	private static Object object;
+
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		
+        int opc ;
+        System.out.println("**********MENU MANTENIMIENTO************\n");
+       	
+       	System.out.println("\n1. INICIAR CAJERO");
+
+       	System.out.println("\n2. APAGAR CAJERO");
+       	
+               		
+        BufferedReader k = new BufferedReader(new InputStreamReader(System.in));
+        	
+     System.out.print("\nSELECCIONE OPCION : ");
+        	opc = Integer.parseInt(k.readLine());
+
+        	      switch (opc) {
+        	      
+        		case 1:
+        			   System.out.println ("\nDIGITE SU CLAVE: ");
+			                Clave c1 = new Clave();
+			                    double Clave = Double.parseDouble(k.readLine());
+				                   c1.setClave(Clave);
+				    
+					
+							
+				 break;
+							
+        		case 2:
+             	       System.out.print("\nDIGITE SU CLAVE: "); 
+             	           apagar b = new apagar();
+        				       double apagar = Double.parseDouble(k.readLine());
+        				           b.setapagar(apagar);
+        					
+        		 break;
+        		 
+        	      }
+        					
+                 int opc1 ;
+        	    	        System.out.println("**********MENU USUARIO************\n");
+        	    	       	
+        	    	       	System.out.println("\nIntrodusca su tarjeta");
+
+        	    	       	
+        	    	        System.out.println ("\nDIGITE SU CLAVE: ");
+        	    	          
+                                       Clave c1 = new Clave();
+                                           double Clave = Double.parseDouble(k.readLine());
+	                                              c1.setClave(Clave);
+	                      
+        	    	   
+        	              BufferedReader k1 = new BufferedReader(new InputStreamReader(System.in));
+        	    	        
+        	    	        System.out.print("\n\n1.RETIRO ");
+        	    	        
+        	    	        
+    	    	        	System.out.print("\n\n2.TRANSFERENCIA  ");
+    	    	        	
+    	    	        	
+    	    	        	System.out.print("\n\nSELECCIONE TRANSACCION : ");
+        	    	        	opc1 = Integer.parseInt(k1.readLine());
+        	    	        	
+        	    	        	
+
+        	    	        	      
+        	    	        	switch (opc1) {
+        	    	        	
+        	    	        	
+        	    	     case 1:
+        	    	    	 System.out.print("\n\na.10.00: ");
+        	    	    	 
+        	    	    	 System.out.print("\n\nb.20.00 ");
+        	    	    	 
+        	    	    	 System.out.print("\n\nc.30.00 ");
+        	    	    	 
+        	    	    	 System.out.print("\n\nd.50.00 ");
+         	    	        
+									Object a = 10.00;
+									object = a;
+									if ((boolean) object);
+									break;
+        	    	        			
+        	             case 2:
+        	    	             	System.out.print("\nDIGITE NUMERO DE CUENTA: "); 
+        	    	             	
+        	    	        					seleccion e = new seleccion();
+        	    	        					
+        	    	        					   double seleccion = Double.parseDouble(k1.readLine());
+        	    	        					
+        	    	        					     e.setSeleccion(seleccion);
+        	    	        					
+        	    	        	      }
+									
+        	    		}
+        	      }
+	
+
+
+
+
+
+
+
+
+        	    	        					
+        	    	        					
+        	    					  
+			  				    
+			  				    
+	
+			  				    
+			  				    
+	
+			  				    
+			  				  	  
+			  				  				    
+
+	
+	
+
+
+
+	
+	
+
+	
+			  				
+	
+	
+	                  
+	
+
+ 
+		       
+  				
+
+			    
+				
+						
+						
+	
+
+	
+						
+    		
+	       
+			        		
+			      
+								  
+    	      
+
+
+	
+	
+
+
+
+
+
+        
+	
+
+

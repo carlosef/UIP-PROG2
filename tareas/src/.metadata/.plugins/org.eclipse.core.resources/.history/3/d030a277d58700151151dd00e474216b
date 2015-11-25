@@ -1,0 +1,10 @@
+package CAJERO;
+
+public class apagar {
+
+	public void setapagar(double apagar) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

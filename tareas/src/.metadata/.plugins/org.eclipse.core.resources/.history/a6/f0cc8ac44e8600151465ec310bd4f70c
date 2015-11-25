@@ -1,0 +1,15 @@
+package CAJERO;
+
+public class Clave {
+	private double introducir ;
+
+	public double getIntroducir() {
+		return introducir;
+	}
+
+	public void setIntroducir(double introducir) {
+		this.introducir = 12345;
+	}
+	
+
+}

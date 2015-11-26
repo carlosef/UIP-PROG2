@@ -1,0 +1,14 @@
+1448475610986	Delete element
+1448476216361	Encapsulate field 'nombre'
+1448476236583	Encapsulate field 'encuestados'
+1448476276815	Encapsulate field 'deporte'
+1448478186330	Convert local variable 'nombre' to field
+1448480632561	Convert local variable 'iterator' to field
+1448485596126	Encapsulate field 'encuesta'
+1448500154235	Convert local variable 'j' to field
+1448501286920	Convert local variable 'deporte' to field
+1448501298555	Encapsulate field 'deporte'
+1448501336095	Convert local variable 'a' to field
+1448501349057	Encapsulate field 'a'
+1448502448274	Convert local variable 'encustados' to field
+1448507490533	Convert local variable 'c' to field

@@ -1,0 +1,233 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class Principal {
+	
+	
+				
+	
+
+	
+
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		int opc;
+		
+		System.out.println("MENU");
+			
+			System.out.println("\n1.ENCUESTAS");
+			System.out.println("\n2.ESTADISTICA");
+			
+	
+		
+			BufferedReader k = new BufferedReader(new InputStreamReader(System.in));
+		
+				System.out.print("\nESCOJA SU OPCION: ");
+				opc = Integer.parseInt(k.readLine());
+				
+				int contador;
+				switch (opc) {
+				case 1:
+				System.out.print("\nQUE DEPORTE PRACTICA?");
+				
+				
+				System.out.println(" \n \na)TENIS");
+				System.out.println("\nb)ATLETISMO");
+				System.out.println("\nc)BALONCESTO  ");
+				System.out.println("\nd)FUTBOL  ");
+				System.out.println("\ne)AJEDREZ   ");
+				System.out.println("\nf)NATACION ");
+				System.out.println("\ng)VOLLEYBALL ");
+				System.out.println("\nh)KARATE ");
+				System.out.println("\nh)flat");
+				System.out.println("\nh)ping pon");
+				
+				opc = Integer.parseInt(k.readLine());
+				
+				int iteracion=1;
+				
+					while (iteracion<=10){
+						++iteracion;
+					}
+					
+					
+				
+				}
+	}
+}
+				
+					
+				
+				
+				
+						
+						
+						
+								
+							
+
+
+
+
+						
+						
+
+					
+					
+				
+	 		 
+								
+					
+					
+				
+					
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+					
+				
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+	
+	
+
+	
+
+	
+	
+
+
+
+
+	
+				
+					
+				
+					
+					
+					
+					
+					
+							
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+
+				
+				
+			
+					
+
+
+
+
+	
+
+
+					
+						
+					
+					
+	
+					
+					
+				
+	
+
+
+
+
+
+
+
+			 		
+		
+		         
+				 
+				 			
+					
+					
+
+							
+				 
+				  
+				  
+			
+			
+							
+	
+
+
+
+
+	
+
+
+			
+			
+						
+		
+	
+
+
